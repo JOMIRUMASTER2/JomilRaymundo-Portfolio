@@ -126,7 +126,7 @@ body{
 .tab-contents ul li{
   list-style: none;
   margin: 10px 0;
-  letter-spacing: normal;
+  letter-spacing: 5px;
 }
 .tab-contents ul li span{
   color: #b54769;
