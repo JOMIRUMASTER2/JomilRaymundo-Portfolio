@@ -93,7 +93,6 @@ body{
 }
 .about-col-2{
   flex-basis: 60%;
-  letter-spacing: normal;
 }
 .sub-title{
   font-size: 60px;
@@ -127,7 +126,6 @@ body{
 .tab-contents ul li{
   list-style: none;
   margin: 10px 0;
-  letter-spacing: -2px;
 }
 .tab-contents ul li span{
   color: #b54769;
