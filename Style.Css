@@ -93,7 +93,7 @@ body{
 }
 .about-col-2{
   flex-basis: 60%;
-  
+  letter-spacing: normal;
 }
 .sub-title{
   font-size: 60px;
