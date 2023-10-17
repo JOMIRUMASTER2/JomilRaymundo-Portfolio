@@ -95,6 +95,9 @@ body{
   flex-basis: 60%;
   letter-spacing: -0.05em;
 }
+.em-tight {
+  letter-spacing: -0.05em;
+}
 .sub-title{
   font-size: 60px;
   font-weight: 600;
