@@ -366,8 +366,8 @@ nav .fa-solid{
     margin-bottom: 30px;
   }
   .about-col-2{
-    font-size: 14px;
-    letter-spacing: -3px;
+    letter-spacing: normal 1px;
+    font-size: 14px; 
   }
   .tab-links{
     font-size: 16px;
